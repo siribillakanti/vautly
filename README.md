@@ -1,7 +1,7 @@
 # Vautly 💳
 
 > A UPI-Inspired Digital Payment Application with Integrated Goal-Based Vaults.
-
+🌐 **Live Demo:** https://vautly.vercel.app/
 Vautly transforms everyday payment experiences by integrating **Goal-Based Money Vaults** directly into digital UPI payment flows. Users can send money, pay via UPI IDs, scan QR codes, request payments, and use their saved Goal Vaults as payment sources.
 
 ---
